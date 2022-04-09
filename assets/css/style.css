@@ -27,6 +27,11 @@ main {
     margin: 0 20%;
 }
 
+main li {
+    list-style-type: none;
+    font-size: 1.4em;
+}
+
 nav {
     background-color: beige;
     padding: 10px;
